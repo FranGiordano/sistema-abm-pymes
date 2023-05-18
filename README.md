@@ -1,3 +1,1 @@
-# sistema-abm-pymes
-
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/pymes2021-ibawqi)
+Puedes ver la página en [abm.fogiordano.com](https://abm.fogiordano.com)
